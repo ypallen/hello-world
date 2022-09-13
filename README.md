@@ -1,3 +1,6 @@
 # hello-world
-First repository on GitHub
-I love :tea :choccolate_bar :weight_lifting 
+This is my first repository on GitHub
+
+I am learning data science and analytics
+
+My interests include geophysics and data visualization
